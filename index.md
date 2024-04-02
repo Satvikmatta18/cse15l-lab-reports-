@@ -2,14 +2,14 @@
 
 
 ## `Cd`
-  1) ## Command with no arguements
+  ## Command with no arguements
 
      - ![image](https://github.com/Satvikmatta18/cse15l-lab-reports-/assets/106504471/20fb4c5e-226b-4af6-a899-dd1954ea196a)
 
      - `/home`
      - This is not an error, the `cd` command had no aruguemnts means that direcotry did not change. 
    
-  3) ## Command with a path to a directory as an argument.
+## Command with a path to a directory as an argument.
 
      - ![image](https://github.com/Satvikmatta18/cse15l-lab-reports-/assets/106504471/86f5510f-ab3f-426f-966d-b125bceb99b2)
 
