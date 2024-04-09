@@ -48,9 +48,9 @@
 - **Working Directory:** The command was run in the `/home` directory.
 - **Explanation:** This command lists the location that the file is in, as it displays `lecture1/messages/en-us.txt`.
 
-## CAT COMMAND:
+## `Cat` 
 
-## `Cat`
+
 ## Command with no arguements
 
 ![image](https://github.com/Satvikmatta18/cse15l-lab-reports-/assets/106504471/f0f573fb-84e5-44b2-9710-d462f62ab3fc)
@@ -71,7 +71,7 @@
    
 ## Command with a path to a file as an argument
 
-1. ![image](https://github.com/Satvikmatta18/cse15l-lab-reports-/assets/106504471/b35c5abc-e2d8-49ec-85ec-90f7521a629d)
+ ![image](https://github.com/Satvikmatta18/cse15l-lab-reports-/assets/106504471/b35c5abc-e2d8-49ec-85ec-90f7521a629d)
 - **Command:** `cat messages/en-us.txt`
 - **Working Directory:** `/home`
 - **Explanation:** This command displays the contents of the file `en-us.txt`. "Hello World!" is displaued.
