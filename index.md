@@ -69,24 +69,22 @@
 - **Explanation:** This command displays the contents of the file `en-us.txt`. "Hello World!" is displayed, verifying that the file contains readable text.
 - **Error:** No error.
 
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-
-
-
+h
+h
+h
+h
+h
+h
+h
+h
+hh
+hh
+h
+h
+h
+h
+h
+h
 
 
 
