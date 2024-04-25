@@ -73,4 +73,4 @@ Each HTTP request to add a message triggers the `handleRequest` method, which up
 
 ## Part 3
 
-In the labs from weeks 2 and 3, I gained practical skills in managing remote server connections using SSH keys, which eliminated the need for password entry, enhancing both convenience and security. Additionally, I learned how to customize a web server's HTTP responses by implementing a chat server that dynamically modifies its response payload with query parameters
+In the labs from weeks 2 and 3, I gained practical skills in managing remote server connections using SSH keys, which eliminated the need for password entry, enhancing both convenience and security. Additionally, I learned how to customize a web server's HTTP responses by implementing a chat server that dynamically modifies its response payload with query parameter. 
